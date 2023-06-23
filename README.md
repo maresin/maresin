@@ -18,10 +18,7 @@ __Languages and Tools:__
 ![Matplotlib](https://img.shields.io/badge/tool-Matplotlib-cc9700?style=flat&logo=appveyor&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-0000ff?style=flat&logo=postgresql&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/ML-CatBoost-ffa500?style=flat&logo=appveyor&logoColor=white)
-![Optuna](https://img.shields.io/badge/tool-Optuna-cd00cd?style=flat&logo=Optuna&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/ML-LightGBM-2aae2a?style=flat&logo=appveyor&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/tool-Statsmodels-00ff7f?style=flat&logo=appveyor&logoColor=white)
-![Seaborn](https://img.shields.io/badge/tool-Seaborn-00ffff?style=flat&logo=appveyor&logoColor=white)
 ![Hive](https://img.shields.io/badge/DB-Hive-fde910?style=flat&logo=Hive&logoColor=white)
 
 __Socials:__  
