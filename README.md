@@ -26,7 +26,7 @@ __Socials:__
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=social&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mikhail-maresin-3654aa280)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=social&logo=Vk&logoColor=4F7DB3)](https://vk.com/id90124882)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=social&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/mikhail.maresin)
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=social&logo=Gmail&logoColor=2E86C1)](mikhailmaresin@gmail)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=social&logo=Gmail&logoColor=2E86C1)](mailto:mikhailmaresin@gmail.com)
 
 <!--
 **maresin/maresin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
