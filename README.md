@@ -6,7 +6,7 @@ ___#work:___ ...opened for collaboration
 
 __Languages and Tools:__  
 ![SciKit-learn](https://img.shields.io/badge/ML-SciKit--learn-ff5800?style=flat&logo=scikit-learn&logoColor=white)
-![Python](https://img.shields.io/badge/langage-Python-3a75c4?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/language-Python-3a75c4?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/tool-Pandas-423189?style=flat&logo=Pandas&logoColor=white)
 ![Keras](https://img.shields.io/badge/AI-Keras-ff0000?style=flat&logo=keras&logoColor=white)
 ![C++](https://img.shields.io/badge/language-C++-3fa298?style=flat&logo=C%2b%2b&logoColor=white)
