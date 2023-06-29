@@ -1,4 +1,6 @@
-### Hi there ^_-
+### Hi there ^_- 
+<sup>... You seem to already know my name.  
+
 ___#about me___  __⇙__  ___...my_projects___  __⇘__  
 ___#specialization:___ Data Scientist / Engineer  
 ___#graduated:___ NNSTU (n.a. R.E. Alekseev) / SHAD (Yandex.Practicum)  
