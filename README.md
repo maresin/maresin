@@ -21,7 +21,7 @@ __Languages and Tools:__
 ![LightGBM](https://img.shields.io/badge/ML-LightGBM-2aae2a?style=flat&logo=appveyor&logoColor=white)
 ![Hive](https://img.shields.io/badge/DB-Hive-a1920d?style=flat&logo=Hive&logoColor=white)
 
-__Socials:__  
+__Socials / Contact me:__  
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=telegram&logoColor=27A0D9)](https://t.me/mikhail_maresin)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=social&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mikhail-maresin-3654aa280)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=social&logo=Vk&logoColor=4F7DB3)](https://vk.com/id90124882)
