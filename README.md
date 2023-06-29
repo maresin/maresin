@@ -22,10 +22,10 @@ __Languages and Tools:__
 ![Hive](https://img.shields.io/badge/DB-Hive-a1920d?style=flat&logo=Hive&logoColor=white)
 
 __Socials / Contact me:__  
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=telegram&logoColor=27A0D9)](https://t.me/mikhail_maresin)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=social&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mikhail-maresin-3654aa280)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=social&logo=Vk&logoColor=4F7DB3)](https://vk.com/id90124882)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=social&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/mikhail.maresin)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=telegram&logoColor=27A0D9)](https://t.me/mikhail_maresin)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=social&logo=Gmail&logoColor=2E86C1)](mailto:mikhailmaresin@gmail.com)
 
 <!--
