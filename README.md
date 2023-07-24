@@ -2,7 +2,7 @@
 
 ___#about me___  __⇙__  ___...my_projects___  __⇘__  
 ___#specialization:___ Data Scientist / Engineer  
-___#graduated:___ NNSTU (n.a. R.E. Alekseev) / SHAD (Yandex.Practicum)  
+___#graduated:___ NNSTU (n.a. R.E. Alekseev) / Yandex.Practicum 
 ___#work:___ ...opened for collaboration
 
 __Languages and Tools:__  
