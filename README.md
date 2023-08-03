@@ -43,5 +43,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![maresin's GitHub stats](https://github-readme-stats.vercel.app/api?username=maresin&show_icons=true&rank_icon=github)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maresin&layout=compact&hide_progress=true)
+![maresin's GitHub stats](https://github-readme-stats.vercel.app/api?username=maresin&show_icons=true&rank_icon=github)
