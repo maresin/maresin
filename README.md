@@ -20,7 +20,6 @@ __Languages and Tools:__
 ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-0000ff?style=flat&logo=postgresql&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/ML-CatBoost-ffa500?style=flat&logo=appveyor&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/ML-LightGBM-2aae2a?style=flat&logo=appveyor&logoColor=white)
-![Hive](https://img.shields.io/badge/DB-Hive-a1920d?style=flat&logo=Hive&logoColor=white)
 
 __Socials / Contact me:__  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=social&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mikhail-maresin-3654aa280)
